@@ -1,0 +1,6 @@
+3. Time taken to run the job locally = 1m48.991s
+   Time taken to run the job on EMR  = 12m44.471s
+
+4. There are 2042 address tags in the input
+
+5. Yes, both the local version and the EMR version produce 2042 address tags. However, both the versions produce different number of output files. (local = 2; EMR = 3) 
