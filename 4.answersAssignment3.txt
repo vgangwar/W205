@@ -7,12 +7,12 @@ xmlprague                Number of tweets:47
 
 Top 10 Hashtags
 xmlprague                Number of tweets:441
-thetransformationsong            Number of tweets:22
+thetransformationsong    Number of tweets:22
 XMLPrague                Number of tweets:20
-XProc            Number of tweets:15
-xproc            Number of tweets:9
-existdb          Number of tweets:8
-RDFa             Number of tweets:7
+XProc                    Number of tweets:15
+xproc                    Number of tweets:9
+existdb                  Number of tweets:8
+RDFa                     Number of tweets:7
 BRILLIANT                Number of tweets:6
 CreditWhereDue           Number of tweets:6
 FUCKYEAH                 Number of tweets:6
