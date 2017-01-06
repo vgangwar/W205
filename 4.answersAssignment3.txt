@@ -1,0 +1,35 @@
+# The answers for each of the three questions. Please provide answers for the hours 9:00+01:00 through 16:00+01:00 on both days.
+-----
+
+Mosted Tweeted
+xmlprague                Number of tweets:47
+
+
+Top 10 Hashtags
+xmlprague                Number of tweets:441
+thetransformationsong    Number of tweets:22
+XMLPrague                Number of tweets:20
+XProc                    Number of tweets:15
+xproc                    Number of tweets:9
+existdb                  Number of tweets:8
+RDFa                     Number of tweets:7
+BRILLIANT                Number of tweets:6
+CreditWhereDue           Number of tweets:6
+FUCKYEAH                 Number of tweets:6
+
+
+Tweets per Hour
+2015-02-14 08            Number of tweets:46
+2015-02-14 09            Number of tweets:55
+2015-02-14 10            Number of tweets:19
+2015-02-14 11            Number of tweets:42
+2015-02-14 12            Number of tweets:9
+2015-02-14 13            Number of tweets:24
+2015-02-14 14            Number of tweets:24
+2015-02-15 08            Number of tweets:21
+2015-02-15 09            Number of tweets:56
+2015-02-15 10            Number of tweets:16
+2015-02-15 11            Number of tweets:66
+2015-02-15 12            Number of tweets:13
+2015-02-15 13            Number of tweets:13
+2015-02-15 14            Number of tweets:41
